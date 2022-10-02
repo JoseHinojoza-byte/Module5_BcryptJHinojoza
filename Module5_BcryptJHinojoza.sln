@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module5_BcryptJHinojoza", "Module5_BcryptJHinojoza.csproj", "{01AD62BE-C67A-4D63-BA31-76670D91F48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AD62BE-C67A-4D63-BA31-76670D91F48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AD62BE-C67A-4D63-BA31-76670D91F48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AD62BE-C67A-4D63-BA31-76670D91F48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AD62BE-C67A-4D63-BA31-76670D91F48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC694BCF-7FA4-477D-B347-692F3D7CF013}
+	EndGlobalSection
+EndGlobal
